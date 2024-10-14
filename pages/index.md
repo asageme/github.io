@@ -19,5 +19,7 @@ title: Sitemap
    1. [Extensions](vscode/extensions)
    2. [Initial Setup](vscode/initial-setup)
    3. [Podman Rootless Rabbit Hole](vscode/podman-rootless-rabbit-hole)
-3. [WSL](wsl)
+3. [Velo](velo)
+   1. [Setup](velo/setup)
+4. [WSL](wsl)
    1. [Install](wsl/install)
